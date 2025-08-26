@@ -1,5 +1,5 @@
 # 💫 About Me:
-💯Computer science student at Tecnológico de Monterrey<br>💫Fullstack developer <br>🦾Roborregos programmer - Computer vision<br>🤖Exploring Artificial Intelligence and Multi-Agent Robotics <br>👀Interested in fullstack development, computer vision and artifitial intelligence…<br>📚Currently learning Tauri, FastAPI, Rust and javascript/typescript<br>🙌I enjoy playing the guitar, running, basketball and watching movies!
+💯Computer science student at Tecnológico de Monterrey<br>💫Fullstack developer <br>🦾Roborregos programmer - Computer vision<br>🤖Exploring Artificial Intelligence and Multi-Agent Robotics <br>📚Currently learning Tauri, FastAPI, Rust and javascript/typescript<br>🙌I enjoy playing the guitar, running, basketball and watching movies!
 
 
 ## 🌐 Socials:
