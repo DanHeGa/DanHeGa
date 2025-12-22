@@ -10,6 +10,15 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DanHeGa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🐍 My Contributions
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanHeGa/DanHeGa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanHeGa/DanHeGa/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DanHeGa/DanHeGa/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
