@@ -1,5 +1,5 @@
 # 💫 About Me:
-💯Computer science student at Tecnológico de Monterrey<br>💫Fullstack developer <br>🦾Roborregos programmer - Computer vision<br>🤖Currently learning Artificial Intelligence and Multi-Agent Robotics <br>🙌I enjoy playing the guitar, running, basketball and watching movies!
+💯Computer science student at Tecnológico de Monterrey <br>💫Software developer <br> 🚜 John Deere SWE intern <br>🦾Roborregos programmer - Computer vision<br>🤖Currently learning Artificial Intelligence and Multi-Agent Robotics <br>🙌I enjoy playing the guitar, running, basketball and watching movies!
 
 
 ## 🌐 Socials:
