@@ -37,9 +37,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DanHeGa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🐍 My Contributions
 
 <div align="center">
