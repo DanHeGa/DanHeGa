@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-💯Computer science student at Tecnológico de Monterrey <br>💫Software developer <br> 🚜 John Deere SWE intern <br>🦾Roborregos programmer - Computer vision<br>🤖Currently learning MLOps and exploring Data Science. <br>🙌I enjoy playing the guitar, running, basketball and watching movies!
+💯Computer science student at Tecnológico de Monterrey <br>💫Software developer <br> 🚜 prev John Deere SWE intern <br>🦾Roborregos programmer - Computer vision<br>🤖Currently learning MLOps and exploring Data Science. <br>🙌I enjoy playing the guitar, running, basketball and watching movies!
 
 
 ## 🌐 Socials:
